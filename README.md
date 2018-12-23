@@ -5,7 +5,7 @@ Tested up to: 4.9.8
 Stable tag: 1.0
 
 ## Description
-Wordpress Custom Text Shortcode is used to add and display custom text any where in website using a shortcode.
+Wordpress Custom Text Shortcode is used to add and display custom text any where in website using a shortcode. This is a sample plugin we created as part of our tutorial on developing a wordpress plugin https://therightsw.com/develop-wordpress-plugin/
 
 ## Installation
 1. Upload (WordPress-Custom-Text-Shortcode)folder to the `/wp-content/plugins/`
